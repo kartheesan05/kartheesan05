@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [kartheesan.online](kartheesan.online)
+- 👨‍💻 All of my projects are available at [kartheesan.online](https://kartheesan.online)
 
 - 📫 How to reach me **kartheesan2005@gmail.com**
 
