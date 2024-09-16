@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **portfolio**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [kartheesan.online](https://kartheesan.online)
 
